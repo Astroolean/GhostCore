@@ -1,6 +1,42 @@
+<div align="center">
+
 # 👻 Ghost Core OSINT Tool
 
-![Ghost Core Banner](https://placehold.co/1200x300/0A192F/00FFFF?text=Ghost+Core+OSINT+Tool)
+![Ghost Core Banner](https://s14.gifyu.com/images/bK9B8.png)
+
+</div>
+
+<div align="center">
+
+#
+
+# 📸 Screenshots
+
+<img width="1920" height="1048" alt="1" src="https://github.com/user-attachments/assets/762f678e-2fb8-44b0-b041-4bba24996e51" />
+
+#
+
+
+<img width="1920" height="1046" alt="2" src="https://github.com/user-attachments/assets/0c413e24-b706-4e46-a1a2-e45e3ad96a30" />
+
+#
+
+
+<img width="1920" height="1048" alt="3" src="https://github.com/user-attachments/assets/773fee72-a439-496f-860d-c53705d1b180" />
+
+#
+
+
+<img width="1917" height="1050" alt="4" src="https://github.com/user-attachments/assets/2f928c63-78cd-459b-8c3a-15e241446e46" />
+
+#
+
+
+<img width="1920" height="1049" alt="5" src="https://github.com/user-attachments/assets/d4c7e622-2d04-42af-9435-8d168c66117d" />
+
+</div>
+
+#
 
 Ghost Core is a sophisticated Open-Source Intelligence (OSINT) tool designed to assist in gathering publicly available information from various online sources. Built with Python and PyQt6, it provides a sleek, intuitive graphical user interface (GUI) for performing tasks such as IP tracking, phone number analysis, username reconnaissance across social media, and simulated vehicle information lookups.
 
