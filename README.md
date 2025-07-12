@@ -1,5 +1,7 @@
 <div align="center">
-
+    
+# Version 1.0
+    
 # 👻 Ghost Core OSINT Tool
 
 ![Ghost Core Banner](https://s14.gifyu.com/images/bK9B8.png)
