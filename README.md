@@ -6,14 +6,6 @@
 
 ![Ghost Core Banner](https://s14.gifyu.com/images/bK9B8.png)
 
-**Coming soon:** In the next Version 1.1 update I will be adding...
-
-* **Auto Clicker:** A utility to automate mouse clicks, allowing for repetitive tasks to be performed efficiently.
-
-* **Port Scanner:** A tool to identify open ports on a target IP address, providing insights into potential network vulnerabilities (passive scanning only, no active exploitation).
-
-* **Email Tracker:** Integrates with public breach databases to check if an email address has been compromised in known data breaches.
-
 </div>
 
 <div align="center">
